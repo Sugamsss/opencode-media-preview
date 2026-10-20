@@ -1,0 +1,8 @@
+{
+  "name": "opencode-media-preview",
+  "type": "module",
+  "exports": {
+    ".": "./index.ts",
+    "./tui": "./tui.tsx"
+  }
+}
